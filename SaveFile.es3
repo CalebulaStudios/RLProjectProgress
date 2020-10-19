@@ -1,0 +1,41 @@
+{
+	"Wood Modeled" : {
+		"__type" : "System.Boolean",
+		"value" : true
+	},
+	"Wood Completed" : {
+		"__type" : "System.Boolean",
+		"value" : true
+
+	},
+	"Brick Modeled" : {
+		"__type" : "System.Boolean",
+		"value" : false
+
+
+	},
+	"Brick Completed" : {
+		"__type" : "System.Boolean",
+		"value" : false
+
+
+
+	},
+	"Stone Modeled" : {
+		"__type" : "System.Boolean",
+		"value" : true
+
+
+
+
+	},
+	"Stone Completed" : {
+		"__type" : "System.Boolean",
+		"value" : true
+
+
+
+
+
+	}
+}
